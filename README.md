@@ -9,16 +9,17 @@
           "sourceSen": [
             "https://live.digitv.live/sn01/rts1.stream/chunks.m3u8"
           ],
-          "subtitleSen": "By Channel",
+          "subtitleSen": "All Channel",
           "thumbSen": "https://lh3.googleusercontent.com/VZyPxURRRo-C0lEWHggT8C-dDJvFNFTVxKrn1yKUNROoT85XnOl9VcmM5HFzyRDwvgs",
           "titleSen": "RTS 1 HD"
         },
+        { "descriptionSen": "KEUR NDANANE TV est une chaîne multiculturelle axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com", "sourceSen": [ "http://livestream.kgsols.com/push/KeurN/playlist.m3u8" ], "subtitleSen": "All Channels", "thumbSen": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg", "titleSen": "KEUR NDANANE"},
         {
           "descriptionSen": "Radio Télévision Sénegalaise 2 est une station de radio diffusée sur le réseau de Radiodiffusion Télévision Sénégalaise (RTS1 HD) de Dakar, au Sénégal, fournissant des informations, des sports, des débats, des émissions en direct et des informations sur la culture ainsi que la musique.",
           "sourceSen": [
             "http://69.64.57.208/rts2/playlist.m3u8"
           ],
-          "subtitleSen": "By Channel",
+          "subtitleSen": "All Channel",
           "thumbSen": "https://od.lk/s/M18yOTEwMjUxNzdf/rts2.png",
           "titleSen": "RTS 2 HD"
         },
@@ -27,7 +28,7 @@
           "sourceSen": [
             "https://live.digitv.live/sn02/rts2.stream/chunks.m3u8"
           ],
-          "subtitleSen": "By Channel",
+          "subtitleSen": "All Channel",
           "thumbSen": "https://od.lk/s/M18yOTEwMjUxNzdf/rts2.png",
           "titleSen": "RTS 2/ LIEN 2"
         },
